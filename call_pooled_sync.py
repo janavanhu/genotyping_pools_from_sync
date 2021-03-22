@@ -1,9 +1,4 @@
-import xlwt
-import xlrd
-from xlrd import open_workbook
 import numpy
-import pickle
-import matplotlib.pyplot as plt
 import numpy as np
 import random
 from scipy import stats
